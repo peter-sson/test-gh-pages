@@ -1,0 +1,1 @@
+{"total":28,"items":[{"uid":"03e9a1d0e315599a260bc53340feb679","name":"Android","statistic":{"failed":1,"broken":0,"skipped":0,"passed":26,"unknown":0,"total":27}},{"uid":"b606fb749b6be7cd1be4ea2b0b788da0","name":"iOS","statistic":{"failed":1,"broken":0,"skipped":0,"passed":26,"unknown":0,"total":27}}]}

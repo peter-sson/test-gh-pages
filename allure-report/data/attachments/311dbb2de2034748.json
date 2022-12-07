@@ -1,0 +1,8 @@
+{
+  "script": "mobile:launchApp",
+  "args": [
+    {
+      "bundleId": "com.hingehealth.phoenix.nightly"
+    }
+  ]
+}

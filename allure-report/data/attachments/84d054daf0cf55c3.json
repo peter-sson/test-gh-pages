@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//XCUIElementTypeOther[contains(@label, \"EXERCISE 3 OUT OF 4\")]"
+}

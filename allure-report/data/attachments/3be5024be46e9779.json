@@ -1,0 +1,8 @@
+{
+  "script": "mobile: isAppInstalled",
+  "args": [
+    {
+      "bundleId": "com.hingehealth.phoenix.nightly"
+    }
+  ]
+}
